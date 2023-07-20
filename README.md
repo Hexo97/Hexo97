@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on web designing and development<br>🤝 I’m looking to increase my tech knowledge <br>🌱 I’m currently learning Three.js<br>⚡ Fun fact: first computer mouse was made of wood
+🔭 I’m currently working on web designing and development<br>🤝 I’m looking to increase my tech knowledge <br>🌱 I’m invested in learning Three.js<br>⚡ Fun fact: first computer mouse was made of wood
 
 
 # 💻 Tech Stack:
